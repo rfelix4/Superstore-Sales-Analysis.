@@ -43,7 +43,8 @@
 
 ## The following visualizations were created to represent the findings:
 . Sales by Category: A bar chart showing sales distribution across product categories (Furniture, Office Supplies, Technology).
-    ![](https://Screenshotpng )
+
+![](https://github.com/rfelix4/Superstore-Sales-Analysis./blob/main/DB.jpg)
 
 
 
