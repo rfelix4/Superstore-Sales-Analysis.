@@ -42,19 +42,15 @@
 # Data Visualization
 
 ## The following visualizations were created to represent the findings:
+
 . Sales by Category: A bar chart showing sales distribution across product categories (Furniture, Office Supplies, Technology).
 
-![](https://github.com/rfelix4/Superstore-Sales-Analysis./blob/main/DB.jpg)
-
-
-
-
-
-    
 . Profit by Region: A pie chart illustrating profit distribution across regions (East, West, South, Central).
+
 . Discount Impact: A scatter plot showing the relationship between discounts and sales.
+
 . Customer Segment Performance A stacked bar chart comparing sales and profits by customer segment.
 
-
+![](https://github.com/rfelix4/Superstore-Sales-Analysis./blob/main/DB.jpg)
 
 
