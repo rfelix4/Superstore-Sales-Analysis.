@@ -3,7 +3,7 @@
 # Introduction
 
 ## This project involves a comprehensive analysis of sales data from a super store, sourced from Kaggle.com, with the goal of deriving actionable insights to improve business performance. The analysis focuses on three key areas: sales trends, customer behavior, and product performance, utilizing a dataset that contains detailed information on orders, including sales, profits, discounts, and customer segments
-
+g
 # Problem Statement
 
 ## The primary objective is to analyze the sales data to identify trends, customer preferences, and areas of improvement. Key questions include:
@@ -44,12 +44,16 @@
  Sales by Category: A bar chart showing sales distribution across product categories.
 
  Sales by customer Segment A Doughnut chart comparing sales by customer segment.
+ 
 
 ## A dashboard illustrating all the visualizations is provided below. 👇
+
+
 
                 
  
 ![](https://github.com/rfelix4/Superstore-Sales-Analysis./blob/main/DB.jpg)
+
 
 # Insights
 
